@@ -1,0 +1,43 @@
+{
+  "name": "node-transform-config",
+  "version": "0.0.1",
+  "description": "npm for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "transform",
+    "config"
+  ],
+  "author": "AndreaJ9391645",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/AndreaJ9391645/node-transform-config"
+  },
+  "dependencies": {
+    "setup-game-alipay": "^0.0.1",
+    "ethers": "^5.0.0",
+    "facebook-button-api": "^0.0.1",
+    "css-inter-log": "^0.0.1",
+    "mp-kit-button": "^0.0.1",
+    "color-update-ui": "^0.0.1",
+    "button-weixin-time": "^0.0.1",
+    "loader-config-tool": "^0.0.1",
+    "ts-quick-react": "^0.0.1",
+    "finder-io-node": "^0.0.1",
+    "alipay-js-pop": "^0.0.1",
+    "alert-cli-dom": "^0.0.1",
+    "mono-io-log": "^0.0.1",
+    "checker-update-viewer": "^0.0.1",
+    "tool-react-parse": "^0.0.1",
+    "cli-frame-java": "^0.0.1",
+    "ui-dom-vs": "^0.0.1",
+    "alert-mp-toast": "^0.0.1",
+    "kit-date-config": "^0.0.1",
+    "skeleton-pwd-chat": "^0.0.1",
+    "pro-server-bot": "^0.0.1",
+    "widget-frame-setup": "^0.0.1"
+  }
+}
